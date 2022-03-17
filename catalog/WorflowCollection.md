@@ -5,8 +5,8 @@
  Create a collection of workflows for reference and use for the users of the application
  ## User Story
 
- As an workflow developer and subcomponent leads, we want to curate a collection application workflows, so that new application users will find it easier 
- to understand and utilize the application.
+ As a scientific software developer, I want my team to curate a collection of application workflows, so that new application users will find it easier 
+ to understand and utilize the application capabilities.
 
  ## Card
 

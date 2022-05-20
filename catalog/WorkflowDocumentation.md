@@ -2,7 +2,7 @@
 
  ## Target
 
- Create documentation for use by the workflow and integration team of the application project
+ Create documentation for running the workflow 
 
  ## User Story
 

@@ -15,7 +15,7 @@
  | 0 | No workflow documentation exists. |
  | 1 | An initial set of documentation that describes the workflow has been created |
  | 2 | Feedback from subcomponent leads and application developers is collected on a regular basis and is used to improve workflow documentation.  |
- | 3 | Continuous integration for the workflow is set up based on the workflow documentation. |
+ | 3 | Documentation covers a set if use cases for integrating different subcomponents and there are tests for this documented capability. |
  | 4 | Workflow documentation maintenance is incorporated into the project's continuous integration process. |
 
  ## Comments
